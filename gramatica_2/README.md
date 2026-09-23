@@ -1,4 +1,4 @@
-## 1. Justificación y Propósito: ¿Por qué calculamos estos conjuntos?
+## 1. Justificación y proposito
 
 En compiladores y procesamiento de lenguajes, un analizador sintáctico descendente predictivo (como un parser LL(1)) tiene un objetivo muy puntual: **leer el código fuente token por token y decidir qué regla gramatical aplicar de forma determinista, sin titubear y sin tener que devolverse (sin backtracking)**.
 
