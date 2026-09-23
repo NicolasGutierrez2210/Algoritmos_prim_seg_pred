@@ -158,7 +158,7 @@ $$SIG(D) = SIG(B) = \{\mathrm{uno}, \mathrm{tres}, \mathrm{cuatro}, \mathrm{cinc
 
 | Símbolo No Terminal | Conjunto de SIGUIENTES |
 | :---: | :--- |
-| $S$ | $\{\$\}$ |
+| $S$ | $\{\text{\$}\}$ |
 | $A$ | $\{\mathrm{uno}, \mathrm{tres}, \mathrm{cuatro}, \mathrm{cinco}, \mathrm{seis}\}$ |
 | $B$ | $\{\mathrm{uno}, \mathrm{tres}, \mathrm{cuatro}, \mathrm{cinco}, \mathrm{seis}\}$ |
 | $C$ | $\{\mathrm{uno}, \mathrm{tres}, \mathrm{cuatro}, \mathrm{cinco}, \mathrm{seis}\}$ |
