@@ -32,7 +32,7 @@ Se contrastan las dependencias cíclicas resueltas analíticamente frente a la c
 
 | No Terminal ($V_N$) | Resultado Analítico Manual | Resultado Computacional (Python) | ¿Coincidencia Exacta? |
 |:---:|:---|:---|:---:|
-| $S$ | $\{\text{\$}\}$ | `{'$'}` | Sí (100%) |
+| $S$ | `{$}` | `{'$'}` | Sí (100%) |
 | $A$ | $\{\mathbf{cinco}, \mathbf{cuatro}, \mathbf{seis}, \mathbf{tres}, \mathbf{uno}\}$ | `{'cinco', 'cuatro', 'seis', 'tres', 'uno'}` | Sí (100%) |
 | $B$ | $\{\mathbf{cinco}, \mathbf{cuatro}, \mathbf{seis}, \mathbf{tres}, \mathbf{uno}\}$ | `{'cinco', 'cuatro', 'seis', 'tres', 'uno'}` | Sí (100%) |
 | $C$ | $\{\mathbf{cinco}, \mathbf{cuatro}, \mathbf{seis}, \mathbf{tres}, \mathbf{uno}\}$ | `{'cinco', 'cuatro', 'seis', 'tres', 'uno'}` | Sí (100%) |
