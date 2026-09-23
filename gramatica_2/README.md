@@ -281,7 +281,7 @@ La tarea fue desarrollada utilizando las librerías nativas de Python 3, por lo 
 
 ### Paso 1: Abrir la terminal y ubicarse en la carpeta
 ```bash
-cd tareaalgoritmosprimeros
+cd gramatica_2
 ```
 
 ### Paso 2: (Opcional) Activar un entorno virtual
